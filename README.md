@@ -1,2 +1,2 @@
 # PlayerMessage
-Show player's join/quit message
+플레이어 접속/퇴장 메세지 표시
