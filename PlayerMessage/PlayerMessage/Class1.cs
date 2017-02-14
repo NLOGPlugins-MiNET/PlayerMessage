@@ -18,7 +18,7 @@ namespace PlayerMessage
             Context.Server.PlayerFactory.PlayerCreated += onPlayerCreated;
             Console.WriteLine("[PlayerMessage] 플러그인이 활성화 되었습니다!");
             Console.WriteLine("당신이 이 플러그인을 사용하면, 당신은 MIT 라이센스에 동의한 것이 됩니다");
-            Console.WriteLine("ⓒ Copyright 2017 PIEA Team, All Right Reserved | ParkChanSol");
+            Console.WriteLine("ⓒ Copyright 2016-2017 NLOG, All Right Reserved | ParkChanSol");
         }
         public override void OnDisable()
         {
